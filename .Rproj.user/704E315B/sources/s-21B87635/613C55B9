@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556598016461.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1418770050",
+    "id" : "613C55B9",
+    "lastKnownWriteTime" : 1556598040,
+    "last_content_update" : 1556598040115,
+    "path" : "~/Developing-Data-Products-Course/AssignmentW2.Rmd",
+    "project_path" : "AssignmentW2.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

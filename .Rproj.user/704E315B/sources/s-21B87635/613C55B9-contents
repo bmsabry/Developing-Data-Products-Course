@@ -1,0 +1,19 @@
+---
+title: "Week2Assignment"
+author: "Bassam Abdelnabi"
+date: "April 29, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, eval=TRUE, echo=FALSE,comment="", message=FALSE}
+library(leaflet)
+leaflet() %>% addTiles () %>%
+  addMarkers(lat=29.97827, lng=31.13116, 
+             popup="Pyramids")
+
+```
